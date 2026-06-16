@@ -42,3 +42,5 @@ tests
 ## Author
 
 Antariksh Bhadoria
+
+Framework created by Antariksh Bhadoria for learning Playwright POM.
