@@ -44,3 +44,7 @@ tests
 Antariksh Bhadoria
 
 Framework created by Antariksh Bhadoria for learning Playwright POM.
+
+## Branch Practice
+
+Learning Git branching.
